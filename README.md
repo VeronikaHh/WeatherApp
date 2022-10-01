@@ -1,2 +1,2 @@
 # WeatherApp
-Simple weather app using OpenWeather API
+Simple single screen weather app using OpenWeather API
